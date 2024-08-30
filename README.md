@@ -8,14 +8,22 @@ Das Spiel beginnt mit einer Abfrage was alles in den Rucksack gepackt werden sol
 
 **Projekt von 23.08.2024 bis 20.09.2024**
 
-## Feinplanung:
+## Feinplanung 30.8.24:
 
-- [] Funktionsweise mit einem Diagramm planen
-- [] Projekt erstellen, C# objekte gelernt
-- [] Grundstruktur des Spiels etablieren (game loop, objekte)
-- [] Grundstruktur des Spiels etabliert (game loop, objekte)
+- [ ] Funktionsweise mit einem Diagramm planen
+- [X] Projekt erstellen, C# objekte gelernt
+- [ ] Grundstruktur des Spiels etablieren (game loop, objekte)
+- [ ] Grundstruktur des Spiels etabliert (game loop, objekte)
 
+**Reflektion:**
+Ich konnte heute das Painter objekt in meinem code Implementieren. Dabei lernte ich wie Objekte in C# Funktionieren und wie man in ein .csv file schreibt.
 
+## Feinplanung 6.9.24:
+
+- [ ] Restliche nicht AI elemente Fertig
+- [ ] Input fertig
+- [ ] Animationen Vollständig designt & Implememtiert
+- [ ] Output und (noch nicht funktionale) Vermittlungsfunktion etabliert
 
 
 
