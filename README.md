@@ -25,6 +25,8 @@ Ich konnte heute das Painter objekt in meinem code Implementieren. Dabei lernte 
 - [ ] Animationen Vollständig designt & Implememtiert
 - [ ] Output und (noch nicht funktionale) Vermittlungsfunktion etabliert
 
+ # ---Habe das Projekt zu lernperiode **01** transportiert.
+
 
 
 
